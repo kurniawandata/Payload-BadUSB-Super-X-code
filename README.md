@@ -2,6 +2,9 @@
 
 Payload untuk BadUSB Super X-code 2.0
 -------------------------------------
+Payload untuk remote komputer target yang menggunakan Windows 7, 8.1 dan 10 yang memanfaatkan celah BadUSB.
+
+Payload ini dirancang khusus untuk BadUSB Super X-code 2.0.
 
 Website: http://xcode.or.id/usbsuperxcode2
 
