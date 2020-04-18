@@ -11,6 +11,7 @@ Support : http://xcodetraining.com/badusb
 Untuk cara penggunaan payload badusb ini bisa mengakses web support di atas dengan akses login ada di dalam plastik pembelian badusb super xcode 2.0
 
 Licensi :
+---------
 
 GNU General Public License
 
