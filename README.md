@@ -10,6 +10,11 @@ Support : http://xcodetraining.com/badusb
 
 Untuk cara penggunaan payload badusb ini bisa mengakses web support di atas dengan akses login ada di dalam plastik pembelian badusb super xcode 2.0
 
+Contoh hasil eksploitasi untuk remote Windows 10
+------------------------------------------------
+https://www.youtube.com/watch?v=LSf3-Fk2cVE
+
+
 Licensi :
 ---------
 
