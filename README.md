@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=LSf3-Fk2cVE
 Licensi :
 ---------
 
-GNU General Public License
+GNU General Public License v3
 
 Payload ini dibuat oleh :
 ------------------------- 
