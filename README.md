@@ -23,7 +23,7 @@ GNU General Public License v3
 Payload ini dibuat oleh :
 ------------------------- 
 
-Kurniawan. kurniawan@xcodetraining.com. xcode.or.id.
+Kurniawan. xcode.or.id. E-mail : kurniawan@securityhub.id
 
 
 Donasi :
