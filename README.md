@@ -8,14 +8,11 @@ Payload ini dirancang khusus untuk BadUSB Super X-code 2.0.
 
 Contoh hasil eksploitasi untuk remote Windows 10
 ------------------------------------------------
-Remote shell Windows 10
-https://drive.google.com/file/d/1msPde8Ii9vGCckMBi0ozpatA8tbeUsol/view
+Remote shell Windows 10 : https://drive.google.com/file/d/1msPde8Ii9vGCckMBi0ozpatA8tbeUsol/view
 
-Remote shell Windows 10 untuk mendapatkan password browsers
-https://drive.google.com/file/d/1NZnR_ATXERmjQwIlL3sfrRh26agpa3JM/view
+Remote shell Windows 10 untuk mendapatkan password browser : https://drive.google.com/file/d/1NZnR_ATXERmjQwIlL3sfrRh26agpa3JM/view
 
-Remote shell Windows 11
-https://www.youtube.com/watch?v=uAeLbvFheI4
+Remote shell Windows 11 : https://www.youtube.com/watch?v=uAeLbvFheI4
 
 Licensi :
 ---------
