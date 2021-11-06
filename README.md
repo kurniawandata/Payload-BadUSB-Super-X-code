@@ -6,13 +6,13 @@ Payload untuk remote komputer target yang menggunakan Windows 7, 8.1, 10 dan 11 
 
 Payload ini dirancang khusus untuk BadUSB Super X-code 2.0.
 
-Contoh hasil eksploitasi untuk remote Windows 10
+Contoh video hasil eksploitasi untuk remote Windows 10
 ------------------------------------------------
-Remote shell Windows 10 : https://drive.google.com/file/d/1msPde8Ii9vGCckMBi0ozpatA8tbeUsol/view
+Video remote shell Windows 10 : https://drive.google.com/file/d/1msPde8Ii9vGCckMBi0ozpatA8tbeUsol/view
 
-Remote shell Windows 10 untuk mendapatkan password browser : https://drive.google.com/file/d/1NZnR_ATXERmjQwIlL3sfrRh26agpa3JM/view
+Video remote shell Windows 10 untuk mendapatkan password browser : https://drive.google.com/file/d/1NZnR_ATXERmjQwIlL3sfrRh26agpa3JM/view
 
-Remote shell Windows 11 : https://www.youtube.com/watch?v=uAeLbvFheI4
+Video remote shell Windows 11 : https://www.youtube.com/watch?v=uAeLbvFheI4
 
 Licensi :
 ---------
